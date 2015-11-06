@@ -1,0 +1,6 @@
+bck1Server:
+  base_uri: http://192.168.1.105:80/
+bck2Server:
+  base_uri: http://192.168.1.105:8082/
+bck3Server:
+  base_uri: http://192.168.1.105:5000/
